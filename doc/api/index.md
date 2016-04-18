@@ -19,15 +19,15 @@ Você pode utilizar a API do Z.BRA Tradutor Twitês em outras aplicações extra
 ## Parâmetros
 Abaixo veja quais os parâmetros que podem ser usados ao utilizar a API:
 
-### $twet
+#### twet
 Texto que você vai tentar traduzir (reduzir).
 Esse campo é obrigatório.
 
-### $specialcharacters
+#### specialcharacters
 Diz se você quer (false) que o resultado venha sem caracteres especiais ou que venha (true) normal.
 Por padrão, é true;
 
-### $maxlength
+#### maxlength
 Número máximo de caracteres.
 Por padrão, é 140 (twiter)
 
