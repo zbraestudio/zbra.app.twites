@@ -5,7 +5,7 @@ Esta documetação esta disponível para listar e documentar rotinas e funcional
 Esse serviço pode ser utilizado em outras aplicações extra-Twitter.
 
 ## Desenvolvimento
-Esse projeto é uma iniciativa sem fins lucrativos da [[Z.BRA Estúdio|http://www.zbraestudio.com.br]].
+Esse projeto é uma iniciativa sem fins lucrativos da [Z.BRA Estúdio](http://www.zbraestudio.com.br).
 
 > Equipe:
 > - Bruno Gonçalves [@bugotech](https://twitter.com/bugotech)
