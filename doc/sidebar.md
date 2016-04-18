@@ -3,7 +3,6 @@
 
 #### API
 - [Home](/api/index.md)
-- [Instalar](/api/index.md)
 
 
 
