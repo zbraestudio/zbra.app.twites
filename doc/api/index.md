@@ -1,6 +1,8 @@
 # API
 Você pode utilizar a API do Z.BRA Tradutor Twitês em outras aplicações extra-twitter.
 
+## Exemplo
+
 É muito fácil de utilizá-lo. Veja o exemplo abaixo:
 
     <?php
