@@ -1,7 +1,7 @@
 <?
 class zbraTwites{
 
-    public $specialcharacters = false;
+    public $specialcharacters = true;
     public $maxlength = 140;
     public $length = 0;
 
@@ -63,7 +63,7 @@ class zbraTwites{
         }
 
         //verifica se deve tirar caracteres especiais
-        if($this->specialcharacters)
+        if(!$this->specialcharacters)
             $twet = $this->noSpecialCharacters($twet);
 
         //número de caracteres do resultado
